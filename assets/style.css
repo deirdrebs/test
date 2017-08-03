@@ -1,0 +1,67 @@
+html {
+  background-color: white
+}
+
+body {
+  font: 13px "Helvetica Neue", Helvetica, Arial, sans-serif;
+  line-height: 1.4;
+  color: #444444;
+  min-width: 960px;
+}
+
+h1 { 
+  font-weight: bold;
+  font-size: 40px;
+  color: #FF9D00;
+  text-align: center;
+}
+
+h2 {
+  font-weight: bold;
+  font-size: 20px;
+  background-color: #FF9D00;
+    color: white;
+    text-align: center;
+}
+
+p.project_name {
+  font-weight: bold;
+  font-size: 15px;
+  color: #FF9D00;
+}
+
+p.project_lang {
+  font-weight: bold;
+  font-size: 13px;
+  color: #FFD394;
+}
+
+a:link, a:visited {
+  color: #FF9D00;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+     border: 1px solid white; 
+     table-layout: fixed;
+     border-spacing: 15px;
+
+}
+
+  td {
+    border: 1px solid #FF9D00;
+    padding: 15px;
+    background-color: white;
+  
+} 
+
+
+</style>
